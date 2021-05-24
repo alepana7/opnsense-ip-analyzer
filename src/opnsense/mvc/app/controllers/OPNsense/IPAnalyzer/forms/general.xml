@@ -1,0 +1,8 @@
+<form>
+    <field>
+        <id>ipanalyzer.general.Enabled</id>
+        <label>enabled</label>
+        <type>checkbox</type>
+        <help>Enable the plugin</help>
+    </field>
+</form>

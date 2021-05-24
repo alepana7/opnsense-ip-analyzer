@@ -1,0 +1,11 @@
+<acl>
+    <page-user-ipanalyzer>
+        <!--ACL is used to gather privileges to other users -->
+        <name>WebCfg - User: IPAnalyzer</name>
+        <description>Allow access to the IP Analyzer module!</description>
+        <patterns>
+            <pattern>ui/ipanalyzer/*</pattern>
+            <pattern>api/ipanalyzer/*</pattern>
+        </patterns>
+    </page-user-ipanalyzer>
+</acl>

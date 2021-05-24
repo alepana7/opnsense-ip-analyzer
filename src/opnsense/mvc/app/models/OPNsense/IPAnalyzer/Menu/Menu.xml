@@ -1,0 +1,5 @@
+<menu>
+    <Services>
+        <IPAnalyzer cssClass="fa fa-area-chart" VisibleName="IPAnalyzer" url="/ui/ipanalyzer/"/>
+    </Services>
+</menu>
